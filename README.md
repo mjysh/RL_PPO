@@ -1,1 +1,1 @@
-# fish_RL
+# easy python access of PPO algorithm
